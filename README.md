@@ -17,7 +17,12 @@ Here are the steps to install this app.
 - Open Git Bash
 - Change the current working directory to the location where you want the cloned directory.
 - Type ```git clone -b release/1.0```, and then paste URL.
-- composer install
+
+To use this app you'll need ti have **composer** so, if you don't have you'll need to install it.
+
+- https://getcomposer.org/download/
+
+After you download it run in your terminal: ```composer install```
 
 ## *How to use it*
 
