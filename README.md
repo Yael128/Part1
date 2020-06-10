@@ -23,5 +23,3 @@ Here are the steps to install this app.
 
 Initialize your symfony server ```symfony server:start``` and go to ```localhost:8000/hello/your_name```
 and just add your name. That's all!
-
-Test
